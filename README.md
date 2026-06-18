@@ -1,7 +1,7 @@
 ## Heart Disease Prediction
 
 ## Overview
-   This project illustrates the machine learning technique for predicting Heart Disease. 
+   This project demonstrates the use of Machine Learning techniques to predict the presence of heart disease based on patient health data. 
 
 ## Dataset Used
    Kaggle Heart Disease Dataset
